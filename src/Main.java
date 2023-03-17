@@ -80,6 +80,5 @@ public class Main {
                     break;
                 default: System.out.println("Введен некорректный месяц");
             }
-
     }
 }
